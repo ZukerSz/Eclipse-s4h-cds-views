@@ -1,4 +1,4 @@
-# ✈️ SAP S/4HANA CDS Views - Estudos e Exemplos
+# ✈️ SAP S/4HANA CDS Views - Estudos e Testes
 
 Repositório de estudos de Core Data Services (CDS) para SAP S/4HANA. Este projeto serve como um registro do meu aprendizado no desenvolvimento de views de dados utilizando ABAP Development Tools (ADT) no Eclipse.
 
